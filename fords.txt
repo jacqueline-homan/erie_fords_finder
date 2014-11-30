@@ -1,0 +1,3 @@
+F-150	2008	28500	Auto Nation
+F-150	2006	32000	Hallman
+F-350 Superduty	2001	47500	Champion
